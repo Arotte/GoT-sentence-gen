@@ -26,7 +26,7 @@ No third party dependecies needed, the script only uses `collections`, `random` 
 
 Clone this repo.
 ```shell
-> 
+> git clone git@github.com:Arotte/basic-got-sentence-generator.git
 ```
 
 Run test script.
