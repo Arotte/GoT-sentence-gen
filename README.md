@@ -1,3 +1,5 @@
+![in the terminal](https://raw.githubusercontent.com/Arotte/basic-got-sentence-generator/main/gif/terminal.gif)
+
 # A Markov chain based sentence generator
 
 
