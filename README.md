@@ -36,6 +36,15 @@ Run test script.
 > python3 ./test.py
 ```
 
+Use one of these commands to get a new sentence: 
+```
+> gimme a sentence
+> nah, a new one
+> new pls
+> still ain't the best
+```
+Or type `exit` to stop the script. 
+
 # Usage Example
 ```python
 from markov_chain import MarkovModel
